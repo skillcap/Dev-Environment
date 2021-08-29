@@ -1,0 +1,102 @@
+{
+    "terminal.integrated.shell.windows": "pwsh.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.fontSize": 13,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "terminal.external.windowsExec": "wt",
+    "terminal.explorerKind": "external",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#b52e31"
+        },
+        {
+            "name": "Auth0 Orange",
+            "value": "#eb5424"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "C# Purple",
+            "value": "#68217A"
+        },
+        {
+            "name": "Gatsby Purple",
+            "value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "value": "#5dc9e2"
+        },
+        {
+            "name": "Java Blue-Gray",
+            "value": "#557c9b"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#00b3e6"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "editor.matchBrackets": false,
+    "java.semanticHighlighting.enabled": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "terminal.integrated.automationShell.windows": "wt",
+    "window.titleSeparator": " -> ",
+    "explorer.openEditors.visible": 12,
+    "terminal.external.linuxExec": "urxvt",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "glassit.alpha": 235,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "settingsSync.ignoredSettings": [
+        "-C_Cpp.clang_format_fallbackStyle"
+    ],
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "RPC.showTime": false,
+    "RPC.showProblems": false,
+    "RPC.disconnectOnIdle": true,
+    "workbench.preferredDarkColorTheme": "Tokyo City Darker",
+    "workbench.preferredLightColorTheme": "Tokyo City",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlayHints.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "workbench.colorTheme": "Tokyo City",
+    "window.zoomLevel": 1,
+    "security.workspace.trust.enabled": false
+}
